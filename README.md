@@ -1,4 +1,4 @@
-# Netflix_Dashboard_Tableau
+# Netflix Dashboard
 Netflix Data Analysis Using Tableau
 
 # Technologies used:
