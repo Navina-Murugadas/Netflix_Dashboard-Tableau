@@ -8,9 +8,8 @@
 
 # Steps:
   1) Data subset collected from online.
-  2) Loading libraries
-  3) Data Cleaning & Finding missing values.
-  4) Data Visualization
+  2) Data Cleaning & Finding missing values.
+  3) Data Visualization
 
 # Data Visualization:
   1) Select options for Type: Movies & TV Shows
