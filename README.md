@@ -1,5 +1,5 @@
 # Netflix_Dashboard_Tableau
-  Netflix Data Analysis Using Tableau
+Netflix Data Analysis Using Tableau
 
 # Technologies used:
   1) Advanced Excel
